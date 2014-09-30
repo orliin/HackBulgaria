@@ -1,4 +1,4 @@
-package orliin.crawler;
+package eu.orliin.tries.crawler;
 
 import java.net.*;
 import java.io.*;

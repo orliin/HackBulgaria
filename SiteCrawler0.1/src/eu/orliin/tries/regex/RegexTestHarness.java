@@ -1,4 +1,4 @@
-package orliin.regex;
+package eu.orliin.tries.regex;
 
 import java.util.Scanner;
 import java.util.regex.Pattern;
